@@ -188,3 +188,6 @@ a.custom-card:hover {
 .checked {
   color: orange;
 }
+a:hover, a:focus {
+  color: #0056b3; /*un tono mas oscuro al hacer hover o focus*/
+}
